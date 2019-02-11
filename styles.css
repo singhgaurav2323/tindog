@@ -103,6 +103,13 @@ nav{
         position: static;
         transform: rotate(0);
     }
+    .navbar-toggler {
+        border-color: white;
+        navbar-light;
+      }
+      .navbar{
+        navbar-dark;
+      }
 }
 
 #cta{
